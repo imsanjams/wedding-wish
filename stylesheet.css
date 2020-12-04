@@ -14,7 +14,8 @@ body {
 .peach {
 	background: url(index.jpeg);
     background-size: cover;
-	background-image: fixed;
+	background-repeat: no-repeat;
+	
     
 	
 }
