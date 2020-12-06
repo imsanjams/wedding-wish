@@ -1,6 +1,6 @@
 body {
 	/*background-color: #FFDAB9;	*/
-	background-color: #000;
+	background-color: black;
 	-webkit-transition:background-color linear 5s;
 	-moz-transition:background-color linear 5s;
 	-o-transition:background-color linear 5s;
@@ -12,7 +12,7 @@ body {
 	display: none;
 }
 .peach {
-	background: url(index.jpeg);
+	background: url(bg.jpeg);
     background-size: cover;
 	background-repeat: no-repeat;
 	
